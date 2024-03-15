@@ -18,10 +18,10 @@ const bountySchema = new mongoose.Schema({
   parentId: {
     type: String,
   },
-  children: {
+  children: [{
     type: mongoose.Schema.Types.ObjectId,
     ref: "Bounty",
-  }
+  }]
 });
 
 const Bounty = mongoose.models.Bounty || mongoose.model("Bounty", bountySchema);

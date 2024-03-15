@@ -65,7 +65,7 @@ function PostBounty({ userId }: {userId: string}) {
             className=" mt-10 flex flex-col justify-start gap-10"
         >
 
-<FormField
+        <FormField
                     control={form.control}
                     name="bounty"
                     render={({ field }) => (
