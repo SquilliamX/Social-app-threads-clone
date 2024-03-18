@@ -1,79 +1,27 @@
-# People's Voice DAO
+## Social App Threads Clone
+Introduction
+This repository contains a clone of the Threads app, which was originally intended to be developed into a decentralized web3 social finance (SocialFi) application. However, due to a comprehensive restructuring of the SocialFi app concept, the project was ultimately disbanded.
 
-Welcome to the People's Voice DAO repository! This project is currently under development and aims to create a decentralized platform where users can post bounties for independent contractors to complete. The platform leverages web-3 technologies to provide a transparent and secure environment for crowdfunding and task fulfillment.
+## Project Overview
+The initial goal of this project was to create a decentralized social media platform that integrates financial features, allowing users to interact, share content, and perform financial transactions seamlessly. The Threads app, with its familiar and user-friendly interface, served as the foundation for this endeavor.
 
-## Overview
+The cloned version of the Threads app aimed to preserve the core functionalities and user experience while incorporating web3 technologies such as blockchain, smart contracts, and decentralized storage solutions. By leveraging these technologies, the project sought to provide users with enhanced privacy, security, and control over their data and financial activities.
 
-People's Voice DAO is a revolutionary platform that empowers users to post bounties for various tasks and objectives. Whether it's reporting, product development, or any other legal request, users can create bounties and have them funded by the community. Independent contractors, known as bounty hunters, can then take up these bounties, complete the tasks, and receive payment from the locked funds in the smart contract.
+## Reason for Project Disbandment
+Despite the initial enthusiasm and potential of the web3 SocialFi app, the project encountered a re-evolution of the overall architecture.
 
-## Key Features
+The decision to disband the project was not taken lightly but was deemed essential to ensure the long-term viability and success of the SocialFi app. The restructuring process involves re-evaluating the project's architecture, user requirements, and market trends to create a more robust and sustainable platform.
 
-- Decentralized bounty posting and fulfillment
-- Crowdfunding mechanism for bounty support
-- Smart contract-based payment handling
-- Video proof of completion for bounty validation
-- Ownership stake for bounty creators in product funding DAOs
+## Future Directions
+While the current version of the Threads app clone will no longer be actively developed, the lessons learned and insights gained from this project will be invaluable in shaping the future direction of the SocialFi app. The team remains committed to exploring innovative solutions and technologies to create a decentralized social media platform that empowers users and revolutionizes the way we interact and transact online.
 
-## Potential Use Cases
+We appreciate the support and interest shown by the community throughout the development process. Stay tuned for updates on the restructured SocialFi app and future projects that aim to push the boundaries of decentralized social media.
 
-People's Voice DAO has a wide range of potential applications. Here are ten different examples the platform could be used for:
+## Repository Contents
+This repository contains the source code and relevant documentation for the cloned version of the Threads app. Feel free to explore the codebase, provide feedback, or contribute to the ongoing discussions surrounding the future of decentralized social media platforms.
 
-1. Investigative journalism and reporting
-2. Product development and prototyping
-3. Social activism and awareness campaigns
-4. Open-source software development
-5. Environmental conservation projects
-6. Community-driven research and surveys
-7. Art and creative projects
-8. Local community improvement initiatives
-9. Educational content creation
-10. Grassroots political campaigns
+Thank you for your understanding and continued support.
 
-## Example Bounties
+If you have any questions or would like to get in touch with the project team, please reach out to us via the repository's issue tracker or contact information provided.
 
-Here are ten different types of bounties that people can ask for on the People's Voice DAO platform:
-
-1. Investigate and report on a specific news story
-2. Develop a prototype for a sustainable energy product
-3. Create a documentary about a social issue
-4. Build a new feature for an open-source software project
-5. Organize a beach cleanup event in a local community
-6. Conduct a survey on public opinion about a specific topic
-7. Create a mural that represents the diversity of a city
-8. Develop a mobile app for a local nonprofit organization
-9. Produce a series of educational videos on a scientific subject
-10. Organize a grassroots campaign for a political candidate
-
-## Tech Stack
-
-- Solidity: Smart contract development
-- Hardhat: Ethereum development environment
-- Next.js 13: Web framework
-- React: Front-end library
-- TypeScript: Static typing for JavaScript
-- MongoDB: Database storage
-
-## Installation and Usage
-
-To run the front-end of the project, navigate to the project directory and run:
-'npm run dev'
-
-The back-end uses Hardhat. Run `npx hardhat compile` to compile
-
-## Learn More
-
-For more information about People's Voice DAO, visit our website at [https://peoplesvoicedao.com/](https://peoplesvoicedao.com/) and check out our whitepaper at [https://peoples-voice-dao.gitbook.io/peoples-voice-dao](https://peoples-voice-dao.gitbook.io/peoples-voice-dao).
-
-## Contribution
-
-We welcome contributions from the community! If you'd like to contribute to the development of People's Voice DAO, please follow our contribution guidelines and submit a pull request.
-
-## License
-
-Copyright (c) [2024] [People's Voice]
-
-All rights reserved.
-
-No part of this project may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright owner, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
-
-For permission requests, write to the copyright owner at [william@PeoplesVoiceDAO.com].
+The overall socialfi app development will be continued under the Peoples-Voice github repo.
